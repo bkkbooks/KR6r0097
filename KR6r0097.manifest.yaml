@@ -21,12 +21,12 @@ editions:
 - short: X
 assets:
   parts:
-  - {seq: 0, filename: KR6r0097_000.yaml, hash: 'sha256:ee6dc7553334cf160cf5ba2a8c403eab04e9fa932144df2509f23f5b95c4a891'}
+  - {seq: 0, filename: KR6r0097_000.yaml, hash: 'sha256:33372606d31545c5d838e764e1b9464b1132804579e5e241038564094d09daa2'}
   - {seq: 1, filename: KR6r0097_001.yaml, hash: 'sha256:401355d4476541a62b6e731f5f15b88d08443072c3877e0249332963e43d7e72'}
   - {seq: 2, filename: KR6r0097_002.yaml, hash: 'sha256:0a5061fea625e83433c86600b6976619cf326a940c80510e8c290c3c594a98d2'}
   - {seq: 3, filename: KR6r0097_003.yaml, hash: 'sha256:4e3393546b2f2795a05a1a4d3a308de09bbe6879250d7eb5bb43fca23f5c19f0'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6r0097_000.markers.yaml, hash: 'sha256:896f677e84407c7f17429d5989111667d989f14b5c71fb6c7c3434f7d1442b8e'}
+  - {seq: 0, role: markers, filename: assets/KR6r0097_000.markers.yaml, hash: 'sha256:75c3843259309f442d453bf5cc35ed7887234964acf539eb437f233b0d722fad'}
   - {seq: 1, role: markers, filename: assets/KR6r0097_001.markers.yaml, hash: 'sha256:53713858b8a4da3515844cb760665f3521e3df56e1f7f24346794c4ee39bd7a4'}
   - {seq: 2, role: markers, filename: assets/KR6r0097_002.markers.yaml, hash: 'sha256:11135f822c1f745dfda8b42f10f26ef6d657f9c2c2c7991a7daec5ea4bcbf4c5'}
   - {seq: 3, role: markers, filename: assets/KR6r0097_003.markers.yaml, hash: 'sha256:298b0e4d97e079dc2c30e2b863c2f48cc0bc052cae2cdf1811dc478cb2ec5c81'}
@@ -35,7 +35,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6r0097_X_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: 禪苑蒙求目錄
@@ -45,7 +45,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6r0097_X_000-mulu-2
     span:
-    - front
+    - body
     - 2343
     - 2343
   label: No. 1614-A
@@ -55,7 +55,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6r0097_X_000-mulu-3
     span:
-    - front
+    - body
     - 2532
     - 2532
   label: No. 1614-B 雪堂和尚注禪苑瑤林引
@@ -65,7 +65,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6r0097_X_000-mulu-4
     span:
-    - front
+    - body
     - 2660
     - 2660
   label: No. 1614-C
@@ -75,7 +75,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6r0097_X_000-mulu-5
     span:
-    - front
+    - body
     - 2769
     - 2769
   label: No. 1614-D 禪苑蒙求引
@@ -5731,7 +5731,7 @@ table_of_contents:
   label: 玄冥木劒
   type: mulu
   level: 1
-hash: sha256:3038c567d4db9960ca4b23a19d78046d60b0726814dd35c88745abbdf52bb0ad
+hash: sha256:49236cddd4b8e434631c980f7fe683ac53765a45386851a10ab500f51b1d18bd
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
